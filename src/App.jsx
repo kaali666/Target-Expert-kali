@@ -7,7 +7,7 @@ import data from "./finalData.json";
 import { useState } from "react";
 
 function App() {
-  const [userName, setUserName] = useState("");
+  const [userName, setUserName] = useState("LulzSec");
   const [userSolved, setUserSolved] = useState([]);
 
   return (
