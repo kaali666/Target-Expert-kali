@@ -1,72 +1,2035 @@
 [
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1637/D",
-    "problemName": "Yet Another Minimization Problem",
-    "problemRating": 1800,
-    "problemTags": ["dp", "greedy", "math"],
-    "userSolved": 191
+    "problemURL": "https://codeforces.com/problemset/problem/1713/C",
+    "problemName": "Build Permutation",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "dp", "math"],
+    "userSolved": 16
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1621/C",
-    "problemName": "Hidden Permutations",
-    "problemRating": 1700,
-    "problemTags": ["dfs and similar", "interactive", "math"],
-    "userSolved": 156
+    "problemURL": "https://codeforces.com/problemset/problem/1704/C",
+    "problemName": "Virus",
+    "problemRating": 1200,
+    "problemTags": ["greedy", "implementation", "sortings"],
+    "userSolved": 15
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1684/D",
-    "problemName": "Traps",
-    "problemRating": 1700,
-    "problemTags": ["constructive algorithms", "greedy", "sortings"],
-    "userSolved": 152
+    "problemURL": "https://codeforces.com/problemset/problem/1656/C",
+    "problemName": "Make Equal With Mod",
+    "problemRating": 1200,
+    "problemTags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "sortings"
+    ],
+    "userSolved": 15
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1699/C",
-    "problemName": "The Third Problem",
-    "problemRating": 1700,
-    "problemTags": ["combinatorics", "constructive algorithms", "math"],
-    "userSolved": 149
+    "problemURL": "https://codeforces.com/problemset/problem/1720/C",
+    "problemName": "Corners",
+    "problemRating": 1200,
+    "problemTags": ["greedy", "implementation"],
+    "userSolved": 14
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1709/D",
-    "problemName": "Rorororobot",
-    "problemRating": 1700,
-    "problemTags": ["binary search", "data structures", "greedy", "math"],
-    "userSolved": 142
+    "problemURL": "https://codeforces.com/problemset/problem/1681/C",
+    "problemName": "Double Sort",
+    "problemRating": 1200,
+    "problemTags": ["implementation", "sortings"],
+    "userSolved": 14
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1713/D",
-    "problemName": "Tournament Countdown",
-    "problemRating": 1800,
+    "problemURL": "https://codeforces.com/problemset/problem/1635/C",
+    "problemName": "Differential Sorting",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "greedy"],
+    "userSolved": 14
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1647/B",
+    "problemName": "Madoka and the Elegant Gift",
+    "problemRating": 1200,
+    "problemTags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "implementation"
+    ],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1559/C",
+    "problemName": "Mocha and Hiking",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "graphs"],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1671/C",
+    "problemName": "Dolce Vita",
+    "problemRating": 1200,
+    "problemTags": ["binary search", "brute force", "greedy", "math"],
+    "userSolved": 12
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1694/B",
+    "problemName": "Paranoid String",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "greedy"],
+    "userSolved": 12
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1582/C",
+    "problemName": "Grandma Capa Knits a Scarf",
+    "problemRating": 1200,
+    "problemTags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "strings",
+      "two pointers"
+    ],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1679/B",
+    "problemName": "Stone Age Problem",
+    "problemRating": 1200,
+    "problemTags": ["data structures", "implementation"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1657/C",
+    "problemName": "Bracket Sequence Deletion",
+    "problemRating": 1200,
+    "problemTags": ["greedy", "implementation"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1642/C",
+    "problemName": "Great Sequence",
+    "problemRating": 1200,
+    "problemTags": ["greedy", "sortings"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1520/D",
+    "problemName": "Same Differences",
+    "problemRating": 1200,
+    "problemTags": ["data structures", "hashing", "math"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1594/C",
+    "problemName": "Make Them Equal",
+    "problemRating": 1200,
+    "problemTags": ["brute force", "greedy", "math", "strings"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1738/B",
+    "problemName": "Prefix Sum Addicts",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "greedy", "math", "sortings"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1650/C",
+    "problemName": "Weight of the System of Nested Segments",
+    "problemRating": 1200,
+    "problemTags": ["greedy", "hashing", "implementation", "sortings"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1598/C",
+    "problemName": "Delete Two Elements",
+    "problemRating": 1200,
+    "problemTags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers"
+    ],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1406/B",
+    "problemName": "Maximum Product",
+    "problemRating": 1200,
+    "problemTags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1613/C",
+    "problemName": "Poisoned Dagger",
+    "problemRating": 1200,
+    "problemTags": ["binary search"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1527/B1",
+    "problemName": "Palindrome Game (easy version)",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "games"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1736/B",
+    "problemName": "Playing with GCD",
+    "problemRating": 1200,
+    "problemTags": ["math", "number theory"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1734/C",
+    "problemName": "Removing Smallest Multiples",
+    "problemRating": 1200,
+    "problemTags": ["greedy", "math"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1619/C",
+    "problemName": "Wrong Addition",
+    "problemRating": 1200,
+    "problemTags": ["implementation"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1097/B",
+    "problemName": "Petr and a Combination Lock",
+    "problemRating": 1200,
+    "problemTags": ["bitmasks", "brute force", "dp"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1637/C",
+    "problemName": "Andrew and Stones",
+    "problemRating": 1200,
+    "problemTags": ["greedy", "implementation"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1703/E",
+    "problemName": "Mirror Grid",
+    "problemRating": 1200,
+    "problemTags": ["implementation"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1399/C",
+    "problemName": "Boats Competition",
+    "problemRating": 1200,
+    "problemTags": ["brute force", "greedy", "two pointers"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1730/C",
+    "problemName": "Minimum Notation",
+    "problemRating": 1200,
+    "problemTags": ["data structures", "greedy", "math", "sortings"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1553/C",
+    "problemName": "Penalty",
+    "problemRating": 1200,
+    "problemTags": ["bitmasks", "brute force", "dp", "greedy"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1363/A",
+    "problemName": "Odd Selection",
+    "problemRating": 1200,
+    "problemTags": ["brute force", "implementation", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1592/B",
+    "problemName": "Hemose Shopping",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "dsu", "math", "sortings"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1504/B",
+    "problemName": "Flip the Bits",
+    "problemRating": 1200,
     "problemTags": [
       "constructive algorithms",
       "greedy",
-      "interactive",
-      "number theory",
-      "probabilities"
+      "implementation",
+      "math"
     ],
-    "userSolved": 139
+    "userSolved": 7
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1691/D",
-    "problemName": "Max GEQ Sum",
-    "problemRating": 1800,
+    "problemURL": "https://codeforces.com/problemset/problem/1581/B",
+    "problemName": "Diameter of Graph",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "graphs", "greedy", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1485/B",
+    "problemName": "Replace and Keep Sorted",
+    "problemRating": 1200,
+    "problemTags": ["dp", "implementation", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1343/C",
+    "problemName": "Alternating Subsequence",
+    "problemRating": 1200,
+    "problemTags": ["dp", "greedy", "two pointers"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/327/A",
+    "problemName": "Flipping Game",
+    "problemRating": 1200,
+    "problemTags": ["brute force", "dp", "implementation"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1530/C",
+    "problemName": "Pursuit",
+    "problemRating": 1200,
+    "problemTags": ["binary search", "brute force", "greedy", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1546/B",
+    "problemName": "AquaMoon and Stolen String",
+    "problemRating": 1200,
+    "problemTags": ["interactive", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1496/C",
+    "problemName": "Diamond Miner",
+    "problemRating": 1200,
+    "problemTags": ["geometry", "greedy", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1674/D",
+    "problemName": "A-B-C Sort",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "implementation", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1586/B",
+    "problemName": "Omkar and Heavenly Tree",
+    "problemRating": 1200,
+    "problemTags": ["brute force", "constructive algorithms", "trees"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1747/C",
+    "problemName": "Swap Game",
+    "problemRating": 1200,
+    "problemTags": ["games"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1608/B",
+    "problemName": "Build the Permutation",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "greedy"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1514/B",
+    "problemName": "AND 0, Sum Big",
+    "problemRating": 1200,
+    "problemTags": ["bitmasks", "combinatorics", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1517/B",
+    "problemName": "Morning Jogging",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "greedy", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1385/C",
+    "problemName": "Make It Good",
+    "problemRating": 1200,
+    "problemTags": ["greedy"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1270/B",
+    "problemName": "Interesting Subarray",
+    "problemRating": 1200,
+    "problemTags": ["constructive algorithms", "greedy", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1354/B",
+    "problemName": "Ternary String",
+    "problemRating": 1200,
+    "problemTags": ["binary search", "dp", "implementation", "two pointers"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1661/B",
+    "problemName": "Getting Zero",
+    "problemRating": 1300,
+    "problemTags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ],
+    "userSolved": 17
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1668/C",
+    "problemName": "Make it Increasing",
+    "problemRating": 1300,
+    "problemTags": ["brute force", "greedy", "math"],
+    "userSolved": 15
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1627/B",
+    "problemName": "Not Sitting",
+    "problemRating": 1300,
+    "problemTags": ["games", "greedy", "sortings"],
+    "userSolved": 14
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1594/E1",
+    "problemName": "Rubik's Cube Coloring (easy version)",
+    "problemRating": 1300,
+    "problemTags": ["combinatorics", "math"],
+    "userSolved": 14
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1647/C",
+    "problemName": "Madoka and Childish Pranks",
+    "problemRating": 1300,
+    "problemTags": ["constructive algorithms", "greedy"],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1638/C",
+    "problemName": "Inversion Graph",
+    "problemRating": 1300,
+    "problemTags": ["data structures", "dsu", "graphs", "math"],
+    "userSolved": 12
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1711/B",
+    "problemName": "Party",
+    "problemRating": 1300,
+    "problemTags": ["brute force", "graphs"],
+    "userSolved": 12
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1694/C",
+    "problemName": "Directional Increase",
+    "problemRating": 1300,
+    "problemTags": ["greedy"],
+    "userSolved": 12
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1733/C",
+    "problemName": "Parity Shuffle Sorting",
+    "problemRating": 1300,
+    "problemTags": ["constructive algorithms", "sortings"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1602/C",
+    "problemName": "Array Elimination",
+    "problemRating": 1300,
+    "problemTags": ["bitmasks", "math", "number theory"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1746/C",
+    "problemName": "Permutation Operations",
+    "problemRating": 1300,
+    "problemTags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1615/B",
+    "problemName": "And It's Non-Zero",
+    "problemRating": 1300,
+    "problemTags": ["bitmasks", "greedy", "math"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1726/C",
+    "problemName": "Jatayu's Balanced Bracket Sequence",
+    "problemRating": 1300,
+    "problemTags": ["data structures", "dsu", "graphs", "greedy"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1698/C",
+    "problemName": "3SUM Closure",
+    "problemRating": 1300,
+    "problemTags": ["brute force", "data structures"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1659/B",
+    "problemName": "Bit Flipping",
+    "problemRating": 1300,
+    "problemTags": ["bitmasks", "constructive algorithms", "greedy", "strings"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1466/C",
+    "problemName": "Canine poetry",
+    "problemRating": 1300,
+    "problemTags": ["dp", "greedy", "strings"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1555/C",
+    "problemName": "Coin Rows",
+    "problemRating": 1300,
+    "problemTags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "implementation"
+    ],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1471/C",
+    "problemName": "Strange Birthday Party",
+    "problemRating": 1300,
+    "problemTags": ["brute force", "greedy", "sortings"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1521/B",
+    "problemName": "Nastia and a Good Array",
+    "problemRating": 1300,
+    "problemTags": ["constructive algorithms", "math", "number theory"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1736/C1",
+    "problemName": "Good Subarrays (Easy Version)",
+    "problemRating": 1300,
+    "problemTags": [
+      "binary search",
+      "data structures",
+      "schedules",
+      "two pointers"
+    ],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/189/A",
+    "problemName": "Cut Ribbon",
+    "problemRating": 1300,
+    "problemTags": ["brute force", "dp"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1556/B",
+    "problemName": "Take Your Places!",
+    "problemRating": 1300,
+    "problemTags": ["implementation"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1560/D",
+    "problemName": "Make a Power of Two",
+    "problemRating": 1300,
+    "problemTags": ["greedy", "math", "strings"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1561/C",
+    "problemName": "Deep Down Below",
+    "problemRating": 1300,
+    "problemTags": ["binary search", "greedy", "sortings"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1650/D",
+    "problemName": "Twist the Permutation",
+    "problemRating": 1300,
+    "problemTags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1555/B",
+    "problemName": "Two Tables",
+    "problemRating": 1300,
+    "problemTags": ["brute force"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1717/C",
+    "problemName": "Madoka and Formal Statement",
+    "problemRating": 1300,
+    "problemTags": ["greedy"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1703/F",
+    "problemName": "Yet Another Problem About Pairs Satisfying an Inequality",
+    "problemRating": 1300,
+    "problemTags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1737/B",
+    "problemName": "Ela's Fitness and the Luxury Number",
+    "problemRating": 1300,
+    "problemTags": ["binary search", "implementation", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1649/B",
+    "problemName": "Game of Ball Passing",
+    "problemRating": 1300,
+    "problemTags": ["greedy", "implementation"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1534/C",
+    "problemName": "Little Alawn's Puzzle",
+    "problemRating": 1300,
+    "problemTags": ["combinatorics", "dp", "dsu", "graphs", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1617/C",
+    "problemName": "Paprika and Permutation",
+    "problemRating": 1300,
+    "problemTags": ["binary search", "greedy", "math", "sortings"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1591/C",
+    "problemName": "Minimize Distance",
+    "problemRating": 1300,
+    "problemTags": ["greedy", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1604/C",
+    "problemName": "Di-visible Confusion",
+    "problemRating": 1300,
+    "problemTags": ["brute force", "greedy", "math", "number theory"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1493/B",
+    "problemName": "Planet Lapituletti",
+    "problemRating": 1300,
+    "problemTags": ["brute force", "implementation"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1209/B",
+    "problemName": "Koala and Lights",
+    "problemRating": 1300,
+    "problemTags": ["implementation", "math", "number theory"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1294/C",
+    "problemName": "Product of Three Numbers",
+    "problemRating": 1300,
+    "problemTags": ["greedy", "math", "number theory"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1574/C",
+    "problemName": "Slay the Dragon",
+    "problemRating": 1300,
+    "problemTags": ["binary search", "greedy", "sortings", "ternary search"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1561/B",
+    "problemName": "Charmed by the Game",
+    "problemRating": 1300,
+    "problemTags": ["brute force", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1476/B",
+    "problemName": "Inflation",
+    "problemRating": 1300,
+    "problemTags": ["binary search", "brute force", "greedy", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1618/D",
+    "problemName": "Array and Operations",
+    "problemRating": 1300,
+    "problemTags": ["dp", "greedy", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1612/C",
+    "problemName": "Chat Ban",
+    "problemRating": 1300,
+    "problemTags": ["binary search", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1459/B",
+    "problemName": "Move and Turn",
+    "problemRating": 1300,
+    "problemTags": ["dp", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1176/C",
+    "problemName": "Lose it!",
+    "problemRating": 1300,
+    "problemTags": ["dp", "greedy", "implementation"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1443/B",
+    "problemName": "Saving the City",
+    "problemRating": 1300,
+    "problemTags": ["dp", "greedy", "math", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1360/E",
+    "problemName": "Polygon",
+    "problemRating": 1300,
+    "problemTags": ["dp", "graphs", "implementation", "shortest paths"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1675/D",
+    "problemName": "Vertical Paths",
+    "problemRating": 1300,
+    "problemTags": ["graphs", "implementation", "trees"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1547/D",
+    "problemName": "Co-growing Sequence",
+    "problemRating": 1300,
+    "problemTags": ["bitmasks", "constructive algorithms", "greedy"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1660/C",
+    "problemName": "Get an Even String",
+    "problemRating": 1300,
+    "problemTags": ["dp", "greedy", "strings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1107/C",
+    "problemName": "Brutality",
+    "problemRating": 1300,
+    "problemTags": ["greedy", "sortings", "two pointers"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1706/C",
+    "problemName": "Qpwoeirut And The City",
+    "problemRating": 1400,
+    "problemTags": ["dp", "flows", "greedy", "implementation"],
+    "userSolved": 20
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1691/C",
+    "problemName": "Sum of Substrings",
+    "problemRating": 1400,
+    "problemTags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "strings"
+    ],
+    "userSolved": 15
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1701/C",
+    "problemName": "Schedule Management",
+    "problemRating": 1400,
+    "problemTags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ],
+    "userSolved": 15
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1705/C",
+    "problemName": "Mark and His Unfinished Essay",
+    "problemRating": 1400,
+    "problemTags": ["brute force", "implementation"],
+    "userSolved": 14
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1644/C",
+    "problemName": "Increase Subarray Sums",
+    "problemRating": 1400,
+    "problemTags": ["brute force", "dp", "greedy", "implementation"],
+    "userSolved": 14
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1654/C",
+    "problemName": "Alice and the Cake",
+    "problemRating": 1400,
+    "problemTags": ["data structures", "greedy", "implementation", "sortings"],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1684/C",
+    "problemName": "Column Swapping",
+    "problemRating": 1400,
+    "problemTags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1728/C",
+    "problemName": "Digital Logarithm",
+    "problemRating": 1400,
+    "problemTags": ["data structures", "greedy", "sortings"],
+    "userSolved": 12
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1634/B",
+    "problemName": "Fortune Telling",
+    "problemRating": 1400,
+    "problemTags": ["bitmasks", "math"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1627/C",
+    "problemName": "Not Assigning",
+    "problemRating": 1400,
+    "problemTags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "number theory",
+      "trees"
+    ],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1605/C",
+    "problemName": "Dominant Character",
+    "problemRating": 1400,
+    "problemTags": ["brute force", "greedy", "implementation", "strings"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1733/D1",
+    "problemName": "Zero-One (Easy Version)",
+    "problemRating": 1400,
+    "problemTags": ["constructive algorithms", "greedy", "math"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1719/C",
+    "problemName": "Fighting Tournament",
+    "problemRating": 1400,
+    "problemTags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "two pointers"
+    ],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1697/C",
+    "problemName": "awoo's Favorite Problem",
+    "problemRating": 1400,
     "problemTags": [
       "binary search",
       "constructive algorithms",
       "data structures",
-      "divide and conquer",
+      "greedy",
+      "implementation",
+      "strings",
+      "two pointers"
+    ],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1559/D1",
+    "problemName": "Mocha and Diana (Easy Version)",
+    "problemRating": 1400,
+    "problemTags": [
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "trees"
+    ],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1609/C",
+    "problemName": "Complex Market Analysis",
+    "problemRating": 1400,
+    "problemTags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "number theory",
+      "schedules",
+      "two pointers"
+    ],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1721/C",
+    "problemName": "Min-Max Array Transformation",
+    "problemRating": 1400,
+    "problemTags": ["binary search", "greedy", "two pointers"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1629/C",
+    "problemName": "Meximum Array",
+    "problemRating": 1400,
+    "problemTags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math",
+      "two pointers"
+    ],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1679/C",
+    "problemName": "Rooks Defenders",
+    "problemRating": 1400,
+    "problemTags": ["data structures", "implementation"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1451/C",
+    "problemName": "String Equality",
+    "problemRating": 1400,
+    "problemTags": ["dp", "greedy", "hashing", "implementation", "strings"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1463/B",
+    "problemName": "Find The Array",
+    "problemRating": 1400,
+    "problemTags": ["bitmasks", "constructive algorithms", "greedy"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1515/C",
+    "problemName": "Phoenix and Towers",
+    "problemRating": 1400,
+    "problemTags": ["constructive algorithms", "data structures", "greedy"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1670/C",
+    "problemName": "Where is the Pizza?",
+    "problemRating": 1400,
+    "problemTags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "math"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1606/C",
+    "problemName": "Banknotes",
+    "problemRating": 1400,
+    "problemTags": ["greedy", "number theory"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1696/C",
+    "problemName": "Fishingprince Plays With Array",
+    "problemRating": 1400,
+    "problemTags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1740/C",
+    "problemName": "Bricks and Bags",
+    "problemRating": 1400,
+    "problemTags": ["constructive algorithms", "games", "greedy", "sortings"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1682/C",
+    "problemName": "LIS or Reverse LIS?",
+    "problemRating": 1400,
+    "problemTags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1649/C",
+    "problemName": "Weird Sum",
+    "problemRating": 1400,
+    "problemTags": ["brute force", "implementation", "math", "matrices"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1526/B",
+    "problemName": "I Hate 1111",
+    "problemRating": 1400,
+    "problemTags": ["dp", "math", "number theory"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1506/D",
+    "problemName": "Epic Transformation",
+    "problemRating": 1400,
+    "problemTags": ["constructive algorithms", "data structures", "greedy"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/279/B",
+    "problemName": "Books",
+    "problemRating": 1400,
+    "problemTags": [
+      "binary search",
+      "brute force",
       "implementation",
       "two pointers"
     ],
-    "userSolved": 138
+    "userSolved": 7
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1466/E",
-    "problemName": "Apollo versus Pan",
-    "problemRating": 1800,
-    "problemTags": ["bitmasks", "brute force", "math"],
-    "userSolved": 137
+    "problemURL": "https://codeforces.com/problemset/problem/1714/E",
+    "problemName": "Add Modulo 10",
+    "problemRating": 1400,
+    "problemTags": ["brute force", "math", "number theory"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1520/E",
+    "problemName": "Arranging The Sheep",
+    "problemRating": 1400,
+    "problemTags": ["greedy", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1461/B",
+    "problemName": "Find the Spruce",
+    "problemRating": 1400,
+    "problemTags": ["brute force", "dp", "implementation"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1750/C",
+    "problemName": "Complementary XOR",
+    "problemRating": 1400,
+    "problemTags": ["constructive algorithms", "implementation"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1363/B",
+    "problemName": "Subsequence Hate",
+    "problemRating": 1400,
+    "problemTags": ["implementation", "strings"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1494/B",
+    "problemName": "Berland Crossword",
+    "problemRating": 1400,
+    "problemTags": ["bitmasks", "brute force", "greedy", "implementation"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1475/C",
+    "problemName": "Ball in Berland",
+    "problemRating": 1400,
+    "problemTags": ["combinatorics", "graphs", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1462/D",
+    "problemName": "Add to Neighbour and Remove",
+    "problemRating": 1400,
+    "problemTags": ["greedy", "math", "number theory"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1214/A",
+    "problemName": "Optimal Currency Exchange",
+    "problemRating": 1400,
+    "problemTags": ["brute force", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1443/C",
+    "problemName": "The Delivery Dilemma",
+    "problemRating": 1400,
+    "problemTags": ["binary search", "greedy", "sortings"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1110/B",
+    "problemName": "Tape",
+    "problemRating": 1400,
+    "problemTags": ["greedy", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1579/D",
+    "problemName": "Productive Meeting",
+    "problemRating": 1400,
+    "problemTags": ["constructive algorithms", "graphs", "greedy"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1573/B",
+    "problemName": "Swaps",
+    "problemRating": 1400,
+    "problemTags": ["greedy", "math", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1282/B1",
+    "problemName": "K for the Price of One (Easy Version)",
+    "problemRating": 1400,
+    "problemTags": ["dp", "greedy", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/698/A",
+    "problemName": "Vacations",
+    "problemRating": 1400,
+    "problemTags": ["dp"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1735/C",
+    "problemName": "Phase Shift",
+    "problemRating": 1400,
+    "problemTags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1393/B",
+    "problemName": "Applejack and Storages",
+    "problemRating": 1400,
+    "problemTags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1427/B",
+    "problemName": "Chess Cheater",
+    "problemRating": 1400,
+    "problemTags": ["greedy", "implementation", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1380/B",
+    "problemName": "Universal Solution",
+    "problemRating": 1400,
+    "problemTags": ["greedy"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1621/B",
+    "problemName": "Integers Shop",
+    "problemRating": 1500,
+    "problemTags": ["data structures", "greedy", "implementation"],
+    "userSolved": 19
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1673/C",
+    "problemName": "Palindrome Basis",
+    "problemRating": 1500,
+    "problemTags": ["brute force", "dp", "math", "number theory"],
+    "userSolved": 16
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1651/C",
+    "problemName": "Fault-tolerant Network",
+    "problemRating": 1500,
+    "problemTags": ["brute force", "data structures", "implementation"],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1711/C",
+    "problemName": "Color the Picture",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "greedy"],
+    "userSolved": 12
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1646/C",
+    "problemName": "Factorials and Powers of Two",
+    "problemRating": 1500,
+    "problemTags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "math"
+    ],
+    "userSolved": 12
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1616/C",
+    "problemName": "Representative Edges",
+    "problemRating": 1500,
+    "problemTags": ["brute force", "geometry", "implementation", "math"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1542/B",
+    "problemName": "Plus and Multiply",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "math", "number theory"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1738/C",
+    "problemName": "Even Number Addicts",
+    "problemRating": 1500,
+    "problemTags": ["dp", "games", "greedy", "math"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1611/D",
+    "problemName": "Weights Assignment For Tree Edges",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "trees"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1690/E",
+    "problemName": "Price Maximization",
+    "problemRating": 1500,
+    "problemTags": ["binary search", "greedy", "math", "two pointers"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1659/C",
+    "problemName": "Line Empire",
+    "problemRating": 1500,
+    "problemTags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1739/C",
+    "problemName": "Card Game",
+    "problemRating": 1500,
+    "problemTags": ["combinatorics", "constructive algorithms", "dp", "games"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1631/C",
+    "problemName": "And Matching",
+    "problemRating": 1500,
+    "problemTags": ["bitmasks", "constructive algorithms"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1562/C",
+    "problemName": "Rings",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "math"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1515/D",
+    "problemName": "Phoenix and Socks",
+    "problemRating": 1500,
+    "problemTags": ["greedy", "sortings", "two pointers"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1740/D",
+    "problemName": "Knowledge Cards",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "data structures"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1552/B",
+    "problemName": "Running for Gold",
+    "problemRating": 1500,
+    "problemTags": ["combinatorics", "graphs", "greedy", "sortings"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1732/D1",
+    "problemName": "Balance (Easy version)",
+    "problemRating": 1500,
+    "problemTags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "number theory"
+    ],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/455/A",
+    "problemName": "Boredom",
+    "problemRating": 1500,
+    "problemTags": ["dp"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1466/D",
+    "problemName": "13th Labour of Heracles",
+    "problemRating": 1500,
+    "problemTags": ["data structures", "greedy", "sortings", "trees"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1461/C",
+    "problemName": "Random Events",
+    "problemRating": 1500,
+    "problemTags": ["dp", "math", "probabilities"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1499/C",
+    "problemName": "Minimum Grid Path",
+    "problemRating": 1500,
+    "problemTags": ["brute force", "data structures", "greedy", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1462/E1",
+    "problemName": "Close Tuples (easy version)",
+    "problemRating": 1500,
+    "problemTags": [
+      "binary search",
+      "combinatorics",
+      "math",
+      "sortings",
+      "two pointers"
+    ],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1737/C",
+    "problemName": "Ela and Crickets",
+    "problemRating": 1500,
+    "problemTags": [
+      "constructive algorithms",
+      "games",
+      "implementation",
+      "math"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1536/C",
+    "problemName": "Diluc and Kaeya",
+    "problemRating": 1500,
+    "problemTags": ["data structures", "dp", "hashing", "number theory"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1389/C",
+    "problemName": "Good String",
+    "problemRating": 1500,
+    "problemTags": ["brute force", "dp", "greedy", "two pointers"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1754/C2",
+    "problemName": "Make Nonzero Sum (hard version)",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "implementation"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1553/D",
+    "problemName": "Backspace",
+    "problemRating": 1500,
+    "problemTags": ["dp", "greedy", "strings", "two pointers"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1209/C",
+    "problemName": "Paint the Digits",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "greedy", "implementation"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1114/B",
+    "problemName": "Yet Another Array Partitioning Task",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "greedy", "sortings"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1304/C",
+    "problemName": "Air Conditioner",
+    "problemRating": 1500,
+    "problemTags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1352/E",
+    "problemName": "Special Elements",
+    "problemRating": 1500,
+    "problemTags": ["brute force", "implementation", "two pointers"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1419/C",
+    "problemName": "Killjoy",
+    "problemRating": 1500,
+    "problemTags": ["greedy", "implementation", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1516/B",
+    "problemName": "AGAGA XOOORRR",
+    "problemRating": 1500,
+    "problemTags": ["bitmasks", "brute force", "dp", "greedy"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1208/B",
+    "problemName": "Uniqueness",
+    "problemRating": 1500,
+    "problemTags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "two pointers"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1526/C1",
+    "problemName": "Potions (Easy Version)",
+    "problemRating": 1500,
+    "problemTags": ["brute force", "data structures", "dp", "greedy"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1579/C",
+    "problemName": "Ticks",
+    "problemRating": 1500,
+    "problemTags": ["greedy", "implementation"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1614/C",
+    "problemName": "Divan and bitwise operations",
+    "problemRating": 1500,
+    "problemTags": [
+      "bitmasks",
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "math"
+    ],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1538/F",
+    "problemName": "Interesting Function",
+    "problemRating": 1500,
+    "problemTags": ["binary search", "dp", "math", "number theory"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1547/E",
+    "problemName": "Air Conditioners",
+    "problemRating": 1500,
+    "problemTags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "shortest paths",
+      "sortings",
+      "two pointers"
+    ],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1551/C",
+    "problemName": "Interesting Story",
+    "problemRating": 1500,
+    "problemTags": ["greedy", "sortings", "strings"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1110/C",
+    "problemName": "Meaningless Operations",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "math", "number theory"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1043/C",
+    "problemName": "Smallest Word",
+    "problemRating": 1500,
+    "problemTags": ["constructive algorithms", "greedy", "implementation"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1201/B",
+    "problemName": "Zero Array",
+    "problemRating": 1500,
+    "problemTags": ["greedy", "math"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1418/C",
+    "problemName": "Mortal Kombat Tower",
+    "problemRating": 1500,
+    "problemTags": ["dp", "graphs", "greedy", "shortest paths"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1391/C",
+    "problemName": "Cyclic Permutations ",
+    "problemRating": 1500,
+    "problemTags": ["combinatorics", "dp", "graphs", "math"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1486/B",
+    "problemName": "Eastern Exhibition",
+    "problemRating": 1500,
+    "problemTags": ["binary search", "geometry", "shortest paths", "sortings"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1296/C",
+    "problemName": "Yet Another Walking Robot",
+    "problemRating": 1500,
+    "problemTags": ["data structures", "implementation"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1326/D1",
+    "problemName": "Prefix-Suffix Palindrome (Easy version)",
+    "problemRating": 1500,
+    "problemTags": ["hashing", "string suffix structures", "strings"],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1400/C",
+    "problemName": "Binary String Reconstruction",
+    "problemRating": 1500,
+    "problemTags": [
+      "2-sat",
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ],
+    "userSolved": 5
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1665/C",
+    "problemName": "Tree Infection",
+    "problemRating": 1600,
+    "problemTags": ["binary search", "greedy", "sortings", "trees"],
+    "userSolved": 14
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1703/G",
+    "problemName": "Good Key, Bad Key",
+    "problemRating": 1600,
+    "problemTags": ["bitmasks", "brute force", "dp", "greedy", "math"],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1658/D1",
+    "problemName": "388535 (Easy Version)",
+    "problemRating": 1600,
+    "problemTags": ["bitmasks", "math"],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1688/D",
+    "problemName": "The Enchanted Forest",
+    "problemRating": 1600,
+    "problemTags": ["greedy", "implementation", "math"],
+    "userSolved": 12
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1708/C",
+    "problemName": "Doremy's IQ",
+    "problemRating": 1600,
+    "problemTags": ["binary search", "greedy"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1698/D",
+    "problemName": "Fixed Point Guessing",
+    "problemRating": 1600,
+    "problemTags": ["binary search", "constructive algorithms", "interactive"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1671/D",
+    "problemName": "Insert a Progression",
+    "problemRating": 1600,
+    "problemTags": ["brute force", "constructive algorithms", "greedy"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1689/C",
+    "problemName": "Infected Tree",
+    "problemRating": 1600,
+    "problemTags": ["dfs and similar", "dp", "trees"],
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1604/D",
+    "problemName": "Moderate Modular Mode",
+    "problemRating": 1600,
+    "problemTags": ["math", "number theory"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1582/D",
+    "problemName": "Vupsen, Pupsen and 0",
+    "problemRating": 1600,
+    "problemTags": ["constructive algorithms", "math"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1622/C",
+    "problemName": "Set or Decrease",
+    "problemRating": 1600,
+    "problemTags": ["binary search", "brute force", "greedy", "sortings"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1633/D",
+    "problemName": "Make Them Equal",
+    "problemRating": 1600,
+    "problemTags": ["dp", "greedy"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1593/E",
+    "problemName": "Gardener and Tree",
+    "problemRating": 1600,
+    "problemTags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "trees"
+    ],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1680/C",
+    "problemName": "Binary String",
+    "problemRating": 1600,
+    "problemTags": ["binary search", "greedy", "strings", "two pointers"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1294/D",
+    "problemName": "MEX maximizing",
+    "problemRating": 1600,
+    "problemTags": ["data structures", "greedy", "implementation", "math"],
+    "userSolved": 10
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1615/C",
+    "problemName": "Menorah",
+    "problemRating": 1600,
+    "problemTags": ["brute force", "graphs", "greedy", "math"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1514/C",
+    "problemName": "Product 1 Modulo N",
+    "problemRating": 1600,
+    "problemTags": ["greedy", "number theory"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1542/C",
+    "problemName": "Strange Function",
+    "problemRating": 1600,
+    "problemTags": ["math", "number theory"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1623/C",
+    "problemName": "Balanced Stone Heaps",
+    "problemRating": 1600,
+    "problemTags": ["binary search", "greedy"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1520/F1",
+    "problemName": "Guess the K-th Zero (Easy version)",
+    "problemRating": 1600,
+    "problemTags": ["binary search", "interactive"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1527/C",
+    "problemName": "Sequence Pair Weight",
+    "problemRating": 1600,
+    "problemTags": ["hashing", "implementation", "math"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1567/C",
+    "problemName": "Carrying Conundrum",
+    "problemRating": 1600,
+    "problemTags": ["bitmasks", "combinatorics", "dp", "math"],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1407/C",
+    "problemName": "Chocolate Bunny",
+    "problemRating": 1600,
+    "problemTags": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "two pointers"
+    ],
+    "userSolved": 9
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1398/C",
+    "problemName": "Good Subarrays",
+    "problemRating": 1600,
+    "problemTags": ["data structures", "dp", "math"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1678/C",
+    "problemName": "Tokitsukaze and Strange Inequality",
+    "problemRating": 1600,
+    "problemTags": ["brute force", "data structures"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1610/C",
+    "problemName": "Keshi Is Throwing a Party",
+    "problemRating": 1600,
+    "problemTags": ["binary search", "greedy"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1529/C",
+    "problemName": "Parsa's Humongous Tree",
+    "problemRating": 1600,
+    "problemTags": ["dfs and similar", "dp", "graphs", "greedy", "trees"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1609/D",
+    "problemName": "Social Network",
+    "problemRating": 1600,
+    "problemTags": ["dsu", "graphs", "greedy", "implementation", "trees"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1455/D",
+    "problemName": "Sequence and Swaps",
+    "problemRating": 1600,
+    "problemTags": ["dp", "greedy", "sortings"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1519/D",
+    "problemName": "Maximum Sum of Products",
+    "problemRating": 1600,
+    "problemTags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1511/D",
+    "problemName": "Min Cost String",
+    "problemRating": 1600,
+    "problemTags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "strings"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1363/C",
+    "problemName": "Game On Leaves",
+    "problemRating": 1600,
+    "problemTags": ["games", "trees"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1504/C",
+    "problemName": "Balance the Bits",
+    "problemRating": 1600,
+    "problemTags": ["brute force", "constructive algorithms", "greedy"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1714/D",
+    "problemName": "Color with Occurrences",
+    "problemRating": 1600,
+    "problemTags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "strings"
+    ],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1566/D2",
+    "problemName": "Seating Arrangements (hard version) ",
+    "problemRating": 1600,
+    "problemTags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1555/D",
+    "problemName": "Say No to Palindromes",
+    "problemRating": 1600,
+    "problemTags": ["brute force", "constructive algorithms", "dp", "strings"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1234/D",
+    "problemName": "Distinct Characters Queries",
+    "problemRating": 1600,
+    "problemTags": ["data structures"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1374/E1",
+    "problemName": "Reading Books (easy version)",
+    "problemRating": 1600,
+    "problemTags": ["data structures", "greedy", "sortings"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1295/C",
+    "problemName": "Obtain The String",
+    "problemRating": 1600,
+    "problemTags": ["dp", "greedy", "strings"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1452/D",
+    "problemName": "Radio Towers",
+    "problemRating": 1600,
+    "problemTags": ["combinatorics", "dp", "math"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1528/A",
+    "problemName": "Parsa's Humongous Tree",
+    "problemRating": 1600,
+    "problemTags": [
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "trees"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1632/C",
+    "problemName": "Strange Test",
+    "problemRating": 1600,
+    "problemTags": ["binary search", "bitmasks", "brute force", "dp", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1730/B",
+    "problemName": "Meeting on the Line",
+    "problemRating": 1600,
+    "problemTags": [
+      "binary search",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math",
+      "ternary search"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1523/C",
+    "problemName": "Compression and Expansion",
+    "problemRating": 1600,
+    "problemTags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "trees"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1526/C2",
+    "problemName": "Potions (Hard Version)",
+    "problemRating": 1600,
+    "problemTags": ["data structures", "greedy"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1539/D",
+    "problemName": "PriceFixed",
+    "problemRating": 1600,
+    "problemTags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1702/E",
+    "problemName": "Split Into Two Sets",
+    "problemRating": 1600,
+    "problemTags": ["dfs and similar", "dsu", "graphs"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1389/B",
+    "problemName": "Array Walk",
+    "problemRating": 1600,
+    "problemTags": ["brute force", "dp", "greedy"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1461/D",
+    "problemName": "Divide and Summarize",
+    "problemRating": 1600,
+    "problemTags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "sortings"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1512/E",
+    "problemName": "Permutation by Sum",
+    "problemRating": 1600,
+    "problemTags": ["brute force", "greedy", "math"],
+    "userSolved": 6
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1706/D1",
@@ -79,7 +2042,82 @@
       "greedy",
       "number theory"
     ],
-    "userSolved": 136
+    "userSolved": 20
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1709/D",
+    "problemName": "Rorororobot",
+    "problemRating": 1700,
+    "problemTags": ["binary search", "data structures", "greedy", "math"],
+    "userSolved": 16
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1699/C",
+    "problemName": "The Third Problem",
+    "problemRating": 1700,
+    "problemTags": ["combinatorics", "constructive algorithms", "math"],
+    "userSolved": 16
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1621/C",
+    "problemName": "Hidden Permutations",
+    "problemRating": 1700,
+    "problemTags": ["dfs and similar", "interactive", "math"],
+    "userSolved": 15
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1430/D",
+    "problemName": "String Deletion",
+    "problemRating": 1700,
+    "problemTags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ],
+    "userSolved": 15
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1688/C",
+    "problemName": "Manipulating History",
+    "problemRating": 1700,
+    "problemTags": ["constructive algorithms", "greedy", "strings"],
+    "userSolved": 14
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1661/C",
+    "problemName": "Water the Trees",
+    "problemRating": 1700,
+    "problemTags": ["binary search", "greedy", "math"],
+    "userSolved": 14
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1644/D",
+    "problemName": "Cross Coloring",
+    "problemRating": 1700,
+    "problemTags": ["data structures", "implementation", "math"],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1625/C",
+    "problemName": "Road Optimization",
+    "problemRating": 1700,
+    "problemTags": ["dp"],
+    "userSolved": 13
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1695/C",
+    "problemName": "Zero Path",
+    "problemRating": 1700,
+    "problemTags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ],
+    "userSolved": 13
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1681/D",
@@ -92,155 +2130,54 @@
       "hashing",
       "shortest paths"
     ],
-    "userSolved": 134
+    "userSolved": 12
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1721/D",
-    "problemName": "Maximum AND",
-    "problemRating": 1800,
-    "problemTags": [
-      "bitmasks",
-      "dfs and similar",
-      "divide and conquer",
-      "greedy",
-      "sortings"
-    ],
-    "userSolved": 133
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1556/C",
-    "problemName": "Compressed Bracket Sequence",
-    "problemRating": 1800,
-    "problemTags": ["brute force", "implementation"],
-    "userSolved": 133
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1661/C",
-    "problemName": "Water the Trees",
+    "problemURL": "https://codeforces.com/problemset/problem/1715/C",
+    "problemName": "Monoblock",
     "problemRating": 1700,
-    "problemTags": ["binary search", "greedy", "math"],
-    "userSolved": 132
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1635/D",
-    "problemName": "Infinite Set",
-    "problemRating": 1800,
     "problemTags": [
-      "bitmasks",
-      "dp",
-      "math",
-      "matrices",
-      "number theory",
-      "strings"
-    ],
-    "userSolved": 132
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1552/D",
-    "problemName": "Array Differentiation",
-    "problemRating": 1800,
-    "problemTags": [
-      "bitmasks",
-      "brute force",
-      "constructive algorithms",
-      "dfs and similar",
-      "dp",
-      "graphs",
+      "combinatorics",
+      "data structures",
+      "implementation",
       "math"
     ],
-    "userSolved": 132
+    "userSolved": 11
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1684/D",
+    "problemName": "Traps",
+    "problemRating": 1700,
+    "problemTags": ["constructive algorithms", "greedy", "sortings"],
+    "userSolved": 11
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1658/C",
     "problemName": "Shinju and the Lost Permutation",
     "problemRating": 1700,
     "problemTags": ["constructive algorithms", "math"],
-    "userSolved": 131
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1620/C",
-    "problemName": "BA-String",
-    "problemRating": 1800,
-    "problemTags": ["brute force", "dp", "greedy", "implementation", "math"],
-    "userSolved": 130
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1557/C",
-    "problemName": "Moamen and XOR",
-    "problemRating": 1700,
-    "problemTags": ["bitmasks", "combinatorics", "dp", "math", "matrices"],
-    "userSolved": 129
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1556/D",
-    "problemName": "Take a Guess",
-    "problemRating": 1800,
-    "problemTags": [
-      "bitmasks",
-      "constructive algorithms",
-      "interactive",
-      "math"
-    ],
-    "userSolved": 129
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1552/C",
-    "problemName": "Maximize the Intersections",
-    "problemRating": 1800,
-    "problemTags": [
-      "combinatorics",
-      "constructive algorithms",
-      "geometry",
-      "greedy",
-      "sortings"
-    ],
-    "userSolved": 127
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1672/D",
-    "problemName": "Cyclic Rotation",
-    "problemRating": 1700,
-    "problemTags": [
-      "constructive algorithms",
-      "greedy",
-      "implementation",
-      "two pointers"
-    ],
-    "userSolved": 126
+    "userSolved": 11
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1554/B",
     "problemName": "Cobb",
     "problemRating": 1700,
     "problemTags": ["bitmasks", "brute force", "greedy", "math"],
-    "userSolved": 126
+    "userSolved": 11
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1491/C",
-    "problemName": "Pekora and Trampoline",
+    "problemURL": "https://codeforces.com/problemset/problem/1102/E",
+    "problemName": "Monotonic Renumeration",
     "problemRating": 1700,
-    "problemTags": [
-      "brute force",
-      "data structures",
-      "dp",
-      "greedy",
-      "implementation"
-    ],
-    "userSolved": 126
+    "problemTags": ["combinatorics", "sortings"],
+    "userSolved": 11
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1549/D",
-    "problemName": "Integers Have Friends",
-    "problemRating": 1800,
-    "problemTags": ["binary search", "data structures", "math", "two pointers"],
-    "userSolved": 126
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1368/D",
-    "problemName": "AND, OR and square sum",
+    "problemURL": "https://codeforces.com/problemset/problem/1557/C",
+    "problemName": "Moamen and XOR",
     "problemRating": 1700,
-    "problemTags": ["bitmasks", "greedy", "math"],
-    "userSolved": 125
+    "problemTags": ["bitmasks", "combinatorics", "dp", "math", "matrices"],
+    "userSolved": 10
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1626/C",
@@ -255,147 +2192,20 @@
       "math",
       "two pointers"
     ],
-    "userSolved": 124
+    "userSolved": 10
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1709/C",
-    "problemName": "Recover an RBS",
-    "problemRating": 1800,
-    "problemTags": [
-      "constructive algorithms",
-      "greedy",
-      "implementation",
-      "strings"
-    ],
-    "userSolved": 122
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1625/C",
-    "problemName": "Road Optimization",
-    "problemRating": 1700,
-    "problemTags": ["dp"],
-    "userSolved": 122
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1644/D",
-    "problemName": "Cross Coloring",
-    "problemRating": 1700,
-    "problemTags": ["data structures", "implementation", "math"],
-    "userSolved": 119
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1695/C",
-    "problemName": "Zero Path",
-    "problemRating": 1700,
-    "problemTags": [
-      "brute force",
-      "data structures",
-      "dp",
-      "graphs",
-      "greedy",
-      "shortest paths"
-    ],
-    "userSolved": 118
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1705/D",
-    "problemName": "Mark and Lightbulbs",
-    "problemRating": 1800,
-    "problemTags": [
-      "combinatorics",
-      "constructive algorithms",
-      "greedy",
-      "math",
-      "sortings"
-    ],
-    "userSolved": 117
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1517/D",
-    "problemName": "Explorer Space",
-    "problemRating": 1800,
-    "problemTags": ["dp", "graphs", "shortest paths"],
-    "userSolved": 117
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1715/C",
-    "problemName": "Monoblock",
-    "problemRating": 1700,
-    "problemTags": [
-      "combinatorics",
-      "data structures",
-      "implementation",
-      "math"
-    ],
-    "userSolved": 116
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1586/C",
-    "problemName": "Omkar and Determination",
+    "problemURL": "https://codeforces.com/problemset/problem/1594/D",
+    "problemName": "The Number of Imposters",
     "problemRating": 1700,
     "problemTags": [
       "constructive algorithms",
+      "dfs and similar",
       "dp",
-      "greedy",
-      "implementation",
-      "two pointers"
+      "dsu",
+      "graphs"
     ],
-    "userSolved": 114
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1491/D",
-    "problemName": "Zookeeper and The Infinite Zoo",
-    "problemRating": 1800,
-    "problemTags": [
-      "bitmasks",
-      "constructive algorithms",
-      "dp",
-      "greedy",
-      "math"
-    ],
-    "userSolved": 114
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1497/E1",
-    "problemName": "Square-free division (easy version)",
-    "problemRating": 1700,
-    "problemTags": [
-      "data structures",
-      "dp",
-      "greedy",
-      "math",
-      "number theory",
-      "two pointers"
-    ],
-    "userSolved": 114
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1534/D",
-    "problemName": "Lost Tree",
-    "problemRating": 1800,
-    "problemTags": ["constructive algorithms", "interactive", "trees"],
-    "userSolved": 114
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1516/C",
-    "problemName": "Baby Ehab Partitions Again",
-    "problemRating": 1700,
-    "problemTags": ["bitmasks", "constructive algorithms", "dp", "math"],
-    "userSolved": 114
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1550/C",
-    "problemName": "Manhattan Subarrays",
-    "problemRating": 1700,
-    "problemTags": ["brute force", "geometry", "greedy", "implementation"],
-    "userSolved": 113
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1562/D1",
-    "problemName": "Two Hundred Twenty One (easy version)",
-    "problemRating": 1700,
-    "problemTags": ["data structures", "dp", "math"],
-    "userSolved": 113
+    "userSolved": 10
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1592/C",
@@ -409,418 +2219,7 @@
       "graphs",
       "trees"
     ],
-    "userSolved": 113
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1700/C",
-    "problemName": "Helping the Nature",
-    "problemRating": 1700,
-    "problemTags": ["constructive algorithms", "data structures", "greedy"],
-    "userSolved": 112
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1538/D",
-    "problemName": "Another Problem About Dividing Numbers",
-    "problemRating": 1700,
-    "problemTags": ["constructive algorithms", "math", "number theory"],
-    "userSolved": 112
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1535/D",
-    "problemName": "Playoff Tournament",
-    "problemRating": 1800,
-    "problemTags": [
-      "data structures",
-      "dfs and similar",
-      "dp",
-      "implementation",
-      "trees"
-    ],
-    "userSolved": 111
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1660/F1",
-    "problemName": "Promising String (easy version)",
-    "problemRating": 1700,
-    "problemTags": ["brute force", "implementation", "math", "strings"],
-    "userSolved": 111
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1586/D",
-    "problemName": "Omkar and the Meaning of Life",
-    "problemRating": 1800,
-    "problemTags": ["constructive algorithms", "greedy", "interactive", "math"],
-    "userSolved": 110
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1728/D",
-    "problemName": "Letter Picking",
-    "problemRating": 1800,
-    "problemTags": ["constructive algorithms", "dp", "games", "two pointers"],
-    "userSolved": 108
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1554/C",
-    "problemName": "Mikasa",
-    "problemRating": 1800,
-    "problemTags": ["binary search", "bitmasks", "greedy", "implementation"],
-    "userSolved": 107
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1608/C",
-    "problemName": "Game Master",
-    "problemRating": 1700,
-    "problemTags": [
-      "data structures",
-      "dfs and similar",
-      "dp",
-      "graphs",
-      "greedy",
-      "two pointers"
-    ],
-    "userSolved": 106
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/126/B",
-    "problemName": "Password",
-    "problemRating": 1700,
-    "problemTags": [
-      "binary search",
-      "dp",
-      "hashing",
-      "string suffix structures",
-      "strings"
-    ],
-    "userSolved": 105
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1702/F",
-    "problemName": "Equate Multisets",
-    "problemRating": 1700,
-    "problemTags": [
-      "constructive algorithms",
-      "data structures",
-      "greedy",
-      "math",
-      "number theory"
-    ],
-    "userSolved": 105
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1359/C",
-    "problemName": "Mixing Water",
-    "problemRating": 1700,
-    "problemTags": ["binary search", "math"],
-    "userSolved": 104
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1554/D",
-    "problemName": "Diane",
-    "problemRating": 1800,
-    "problemTags": ["constructive algorithms", "greedy", "strings"],
-    "userSolved": 104
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1326/D2",
-    "problemName": "Prefix-Suffix Palindrome (Hard version)",
-    "problemRating": 1800,
-    "problemTags": [
-      "binary search",
-      "greedy",
-      "hashing",
-      "string suffix structures",
-      "strings"
-    ],
-    "userSolved": 104
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1474/C",
-    "problemName": "Array Destruction",
-    "problemRating": 1700,
-    "problemTags": [
-      "brute force",
-      "constructive algorithms",
-      "data structures",
-      "greedy",
-      "implementation",
-      "sortings"
-    ],
-    "userSolved": 103
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1512/G",
-    "problemName": "Short Task",
-    "problemRating": 1700,
-    "problemTags": ["brute force", "dp", "math", "number theory"],
-    "userSolved": 103
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1509/C",
-    "problemName": "The Sports Festival",
-    "problemRating": 1800,
-    "problemTags": ["dp", "greedy"],
-    "userSolved": 103
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1469/D",
-    "problemName": "Ceil Divisions",
-    "problemRating": 1700,
-    "problemTags": [
-      "brute force",
-      "constructive algorithms",
-      "math",
-      "number theory"
-    ],
-    "userSolved": 103
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1720/D1",
-    "problemName": "Xor-Subsequence (easy version)",
-    "problemRating": 1800,
-    "problemTags": [
-      "bitmasks",
-      "brute force",
-      "dp",
-      "strings",
-      "trees",
-      "two pointers"
-    ],
-    "userSolved": 102
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1476/D",
-    "problemName": "Journey",
-    "problemRating": 1700,
-    "problemTags": ["dfs and similar", "dp", "dsu", "implementation"],
-    "userSolved": 101
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/466/C",
-    "problemName": "Number of Ways",
-    "problemRating": 1700,
-    "problemTags": [
-      "binary search",
-      "brute force",
-      "data structures",
-      "dp",
-      "two pointers"
-    ],
-    "userSolved": 101
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1473/D",
-    "problemName": "Program",
-    "problemRating": 1700,
-    "problemTags": ["data structures", "dp", "implementation", "strings"],
-    "userSolved": 100
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1598/D",
-    "problemName": "Training Session",
-    "problemRating": 1700,
-    "problemTags": [
-      "combinatorics",
-      "data structures",
-      "geometry",
-      "implementation",
-      "math"
-    ],
-    "userSolved": 99
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1392/D",
-    "problemName": "Omkar and Bed Wars",
-    "problemRating": 1700,
-    "problemTags": ["dp", "greedy"],
-    "userSolved": 99
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1401/D",
-    "problemName": "Maximum Distributed Tree",
-    "problemRating": 1800,
-    "problemTags": [
-      "dfs and similar",
-      "dp",
-      "greedy",
-      "implementation",
-      "math",
-      "number theory",
-      "sortings",
-      "trees"
-    ],
-    "userSolved": 98
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1543/D1",
-    "problemName": "RPD and Rap Sheet (Easy Version)",
-    "problemRating": 1700,
-    "problemTags": [
-      "bitmasks",
-      "constructive algorithms",
-      "interactive",
-      "math"
-    ],
-    "userSolved": 98
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1478/C",
-    "problemName": "Nezzar and Symmetric Array",
-    "problemRating": 1700,
-    "problemTags": ["implementation", "math", "sortings"],
-    "userSolved": 96
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1670/D",
-    "problemName": "Very Suspicious",
-    "problemRating": 1700,
-    "problemTags": [
-      "binary search",
-      "brute force",
-      "geometry",
-      "greedy",
-      "implementation",
-      "math"
-    ],
-    "userSolved": 96
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1617/D1",
-    "problemName": "Too Many Impostors (easy version)",
-    "problemRating": 1800,
-    "problemTags": ["constructive algorithms", "implementation", "interactive"],
-    "userSolved": 96
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1450/D",
-    "problemName": "Rating Compression",
-    "problemRating": 1800,
-    "problemTags": [
-      "binary search",
-      "data structures",
-      "greedy",
-      "implementation",
-      "two pointers"
-    ],
-    "userSolved": 95
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1594/D",
-    "problemName": "The Number of Imposters",
-    "problemRating": 1700,
-    "problemTags": [
-      "constructive algorithms",
-      "dfs and similar",
-      "dp",
-      "dsu",
-      "graphs"
-    ],
-    "userSolved": 95
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1561/D1",
-    "problemName": "Up the Strip (simplified version)",
-    "problemRating": 1700,
-    "problemTags": [
-      "brute force",
-      "data structures",
-      "dp",
-      "math",
-      "number theory"
-    ],
-    "userSolved": 94
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1629/D",
-    "problemName": "Peculiar Movie Preferences",
-    "problemRating": 1700,
-    "problemTags": ["greedy", "strings"],
-    "userSolved": 93
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1688/C",
-    "problemName": "Manipulating History",
-    "problemRating": 1700,
-    "problemTags": ["constructive algorithms", "greedy", "strings"],
-    "userSolved": 92
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1579/E2",
-    "problemName": "Array Optimization by Deque",
-    "problemRating": 1700,
-    "problemTags": ["data structures", "greedy"],
-    "userSolved": 92
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1430/D",
-    "problemName": "String Deletion",
-    "problemRating": 1700,
-    "problemTags": [
-      "binary search",
-      "data structures",
-      "greedy",
-      "two pointers"
-    ],
-    "userSolved": 92
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1437/C",
-    "problemName": "Chef Monocarp",
-    "problemRating": 1800,
-    "problemTags": [
-      "dp",
-      "flows",
-      "graph matchings",
-      "greedy",
-      "math",
-      "sortings"
-    ],
-    "userSolved": 92
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1582/F1",
-    "problemName": "Korney Korneevich and XOR (easy version)",
-    "problemRating": 1800,
-    "problemTags": ["bitmasks", "dp", "greedy"],
-    "userSolved": 91
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1537/D",
-    "problemName": "Deleting Divisors",
-    "problemRating": 1700,
-    "problemTags": ["games", "math", "number theory"],
-    "userSolved": 91
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1406/C",
-    "problemName": "Link Cut Centroids",
-    "problemRating": 1700,
-    "problemTags": [
-      "constructive algorithms",
-      "dfs and similar",
-      "graphs",
-      "trees"
-    ],
-    "userSolved": 91
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1388/C",
-    "problemName": "Uncle Bogdan and Country Happiness",
-    "problemRating": 1800,
-    "problemTags": ["dfs and similar", "greedy", "math", "trees"],
-    "userSolved": 90
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1735/D",
-    "problemName": "Meta-set",
-    "problemRating": 1700,
-    "problemTags": [
-      "brute force",
-      "combinatorics",
-      "data structures",
-      "hashing",
-      "math"
-    ],
-    "userSolved": 90
+    "userSolved": 10
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1619/E",
@@ -835,299 +2234,56 @@
       "math",
       "sortings"
     ],
-    "userSolved": 89
+    "userSolved": 9
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1618/E",
-    "problemName": "Singers' Tour",
+    "problemURL": "https://codeforces.com/problemset/problem/1629/D",
+    "problemName": "Peculiar Movie Preferences",
     "problemRating": 1700,
-    "problemTags": ["constructive algorithms", "math"],
-    "userSolved": 89
+    "problemTags": ["greedy", "strings"],
+    "userSolved": 9
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1714/G",
-    "problemName": "Path Prefixes",
-    "problemRating": 1700,
-    "problemTags": [
-      "binary search",
-      "data structures",
-      "dfs and similar",
-      "trees"
-    ],
-    "userSolved": 89
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1579/F",
-    "problemName": "Array Stabilization (AND version)",
+    "problemURL": "https://codeforces.com/problemset/problem/1688/E",
+    "problemName": "Railway System",
     "problemRating": 1700,
     "problemTags": [
       "brute force",
-      "graphs",
-      "math",
-      "number theory",
-      "shortest paths"
-    ],
-    "userSolved": 89
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1393/C",
-    "problemName": "Pinkie Pie Eats Patty-cakes",
-    "problemRating": 1700,
-    "problemTags": ["constructive algorithms", "greedy", "math", "sortings"],
-    "userSolved": 89
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1467/B",
-    "problemName": "Hills And Valleys",
-    "problemRating": 1700,
-    "problemTags": ["brute force", "implementation"],
-    "userSolved": 89
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1365/D",
-    "problemName": "Solve The Maze",
-    "problemRating": 1700,
-    "problemTags": [
       "constructive algorithms",
-      "dfs and similar",
       "dsu",
       "graphs",
       "greedy",
-      "implementation",
-      "shortest paths"
+      "interactive",
+      "sortings"
     ],
-    "userSolved": 89
+    "userSolved": 9
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1398/D",
-    "problemName": "Colored Rectangles",
-    "problemRating": 1800,
-    "problemTags": ["dp", "greedy", "sortings"],
-    "userSolved": 88
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1475/D",
-    "problemName": "Cleaning the Phone",
-    "problemRating": 1800,
-    "problemTags": ["binary search", "dp", "sortings", "two pointers"],
-    "userSolved": 87
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1209/D",
-    "problemName": "Cow and Snacks",
-    "problemRating": 1700,
-    "problemTags": ["dfs and similar", "dsu", "graphs"],
-    "userSolved": 87
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1355/C",
-    "problemName": "Count Triangles",
-    "problemRating": 1800,
-    "problemTags": ["binary search", "implementation", "math", "two pointers"],
-    "userSolved": 87
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/161/D",
-    "problemName": "Distance in Tree",
-    "problemRating": 1800,
-    "problemTags": ["dfs and similar", "dp", "trees"],
-    "userSolved": 86
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1551/D1",
-    "problemName": "Domino (easy version)",
-    "problemRating": 1700,
-    "problemTags": ["constructive algorithms", "math"],
-    "userSolved": 86
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/339/D",
-    "problemName": "Xenia and Bit Operations",
-    "problemRating": 1700,
-    "problemTags": ["data structures", "trees"],
-    "userSolved": 86
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1400/B",
-    "problemName": "RPG Protagonist",
-    "problemRating": 1700,
-    "problemTags": ["brute force", "greedy", "math"],
-    "userSolved": 86
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1420/D",
-    "problemName": "Rescue Nibel!",
-    "problemRating": 1800,
-    "problemTags": ["combinatorics", "data structures", "sortings"],
-    "userSolved": 86
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1422/C",
-    "problemName": "Bargain",
-    "problemRating": 1700,
-    "problemTags": ["combinatorics", "dp", "math"],
-    "userSolved": 85
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1485/C",
-    "problemName": "Floor and Mod",
-    "problemRating": 1700,
-    "problemTags": ["binary search", "brute force", "math", "number theory"],
-    "userSolved": 85
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/474/D",
-    "problemName": "Flowers",
-    "problemRating": 1700,
-    "problemTags": ["dp"],
-    "userSolved": 84
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1674/F",
-    "problemName": "Desktop Rearrangement",
-    "problemRating": 1800,
-    "problemTags": ["data structures", "greedy", "implementation"],
-    "userSolved": 84
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1734/D",
-    "problemName": "Slime Escape",
-    "problemRating": 1800,
-    "problemTags": ["data structures", "dp", "greedy", "two pointers"],
-    "userSolved": 83
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1472/E",
-    "problemName": "Correct Placement",
+    "problemURL": "https://codeforces.com/problemset/problem/1598/D",
+    "problemName": "Training Session",
     "problemRating": 1700,
     "problemTags": [
-      "binary search",
-      "data structures",
-      "dp",
-      "sortings",
-      "two pointers"
-    ],
-    "userSolved": 83
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1396/B",
-    "problemName": "Stoned Game",
-    "problemRating": 1800,
-    "problemTags": [
-      "brute force",
-      "constructive algorithms",
-      "games",
-      "greedy"
-    ],
-    "userSolved": 83
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1462/E2",
-    "problemName": "Close Tuples (hard version)",
-    "problemRating": 1700,
-    "problemTags": [
-      "binary search",
       "combinatorics",
-      "implementation",
-      "math",
-      "sortings",
-      "two pointers"
-    ],
-    "userSolved": 83
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1675/F",
-    "problemName": "Vlad and Unfinished Business",
-    "problemRating": 1800,
-    "problemTags": ["dfs and similar", "dp", "greedy", "trees"],
-    "userSolved": 82
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1208/C",
-    "problemName": "Magic Grid",
-    "problemRating": 1800,
-    "problemTags": ["constructive algorithms"],
-    "userSolved": 82
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1334/D",
-    "problemName": "Minimum Euler Cycle",
-    "problemRating": 1800,
-    "problemTags": [
-      "constructive algorithms",
-      "graphs",
-      "greedy",
-      "implementation"
-    ],
-    "userSolved": 82
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1690/F",
-    "problemName": "Shifting String",
-    "problemRating": 1700,
-    "problemTags": ["graphs", "math", "number theory", "strings"],
-    "userSolved": 81
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1360/F",
-    "problemName": "Spy-string",
-    "problemRating": 1700,
-    "problemTags": [
-      "bitmasks",
-      "brute force",
-      "constructive algorithms",
-      "dp",
-      "hashing",
-      "strings"
-    ],
-    "userSolved": 81
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1525/D",
-    "problemName": "Armchairs",
-    "problemRating": 1800,
-    "problemTags": ["dp", "flows", "graph matchings", "greedy"],
-    "userSolved": 81
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1648/B",
-    "problemName": "Integral Array",
-    "problemRating": 1800,
-    "problemTags": [
-      "brute force",
-      "constructive algorithms",
       "data structures",
+      "geometry",
+      "implementation",
       "math"
     ],
-    "userSolved": 80
+    "userSolved": 9
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1479/A",
-    "problemName": "Searching Local Minimum",
+    "problemURL": "https://codeforces.com/problemset/problem/1474/C",
+    "problemName": "Array Destruction",
     "problemRating": 1700,
-    "problemTags": ["binary search", "interactive", "ternary search"],
-    "userSolved": 80
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1619/D",
-    "problemName": "New Year's Problem",
-    "problemRating": 1800,
-    "problemTags": ["binary search", "greedy", "sortings"],
-    "userSolved": 79
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1611/F",
-    "problemName": "ATM and Students",
-    "problemRating": 1800,
-    "problemTags": ["binary search", "data structures", "two pointers"],
-    "userSolved": 79
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1666/C",
-    "problemName": "Connect the Points",
-    "problemRating": 1800,
-    "problemTags": ["brute force", "constructive algorithms", "geometry"],
-    "userSolved": 79
+    "problemTags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "userSolved": 8
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1611/E1",
@@ -1140,265 +2296,215 @@
       "trees",
       "two pointers"
     ],
-    "userSolved": 78
+    "userSolved": 8
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1666/L",
-    "problemName": "Labyrinth",
-    "problemRating": 1800,
-    "problemTags": ["dfs and similar", "graphs"],
-    "userSolved": 78
+    "problemURL": "https://codeforces.com/problemset/problem/1714/G",
+    "problemName": "Path Prefixes",
+    "problemRating": 1700,
+    "problemTags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "trees"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/126/B",
+    "problemName": "Password",
+    "problemRating": 1700,
+    "problemTags": [
+      "binary search",
+      "dp",
+      "hashing",
+      "string suffix structures",
+      "strings"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1700/C",
+    "problemName": "Helping the Nature",
+    "problemRating": 1700,
+    "problemTags": ["constructive algorithms", "data structures", "greedy"],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1743/D",
+    "problemName": "Problem with Random Tests",
+    "problemRating": 1700,
+    "problemTags": ["brute force", "dp", "greedy", "probabilities"],
+    "userSolved": 8
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1694/D",
     "problemName": "Fake Plastic Trees",
     "problemRating": 1700,
     "problemTags": ["dfs and similar", "dp", "greedy", "trees"],
-    "userSolved": 78
+    "userSolved": 8
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1295/B",
-    "problemName": "Infinite Prefixes",
+    "problemURL": "https://codeforces.com/problemset/problem/1690/F",
+    "problemName": "Shifting String",
     "problemRating": 1700,
-    "problemTags": ["math", "strings"],
-    "userSolved": 78
+    "problemTags": ["graphs", "math", "number theory", "strings"],
+    "userSolved": 8
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1451/D",
-    "problemName": "Circle Game",
+    "problemURL": "https://codeforces.com/problemset/problem/1562/D1",
+    "problemName": "Two Hundred Twenty One (easy version)",
     "problemRating": 1700,
-    "problemTags": ["games", "geometry", "math"],
-    "userSolved": 78
+    "problemTags": ["data structures", "dp", "math"],
+    "userSolved": 8
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1692/H",
-    "problemName": "Gambling",
+    "problemURL": "https://codeforces.com/problemset/problem/1561/D1",
+    "problemName": "Up the Strip (simplified version)",
     "problemRating": 1700,
-    "problemTags": ["data structures", "dp", "greedy", "math"],
-    "userSolved": 77
+    "problemTags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "math",
+      "number theory"
+    ],
+    "userSolved": 8
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1678/D",
+    "problemName": "Tokitsukaze and Meeting",
+    "problemRating": 1700,
+    "problemTags": ["dp", "implementation"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1579/E2",
+    "problemName": "Array Optimization by Deque",
+    "problemRating": 1700,
+    "problemTags": ["data structures", "greedy"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1550/C",
+    "problemName": "Manhattan Subarrays",
+    "problemRating": 1700,
+    "problemTags": ["brute force", "geometry", "greedy", "implementation"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1608/C",
+    "problemName": "Game Master",
+    "problemRating": 1700,
+    "problemTags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "two pointers"
+    ],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1260/C",
+    "problemName": "Infinite Fence",
+    "problemRating": 1700,
+    "problemTags": ["greedy", "math", "number theory"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1537/D",
+    "problemName": "Deleting Divisors",
+    "problemRating": 1700,
+    "problemTags": ["games", "math", "number theory"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1114/C",
+    "problemName": "Trailing Loves (or L'oeufs?)",
+    "problemRating": 1700,
+    "problemTags": ["brute force", "implementation", "math", "number theory"],
+    "userSolved": 7
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1618/E",
+    "problemName": "Singers' Tour",
+    "problemRating": 1700,
+    "problemTags": ["constructive algorithms", "math"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1672/D",
+    "problemName": "Cyclic Rotation",
+    "problemRating": 1700,
+    "problemTags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1476/D",
+    "problemName": "Journey",
+    "problemRating": 1700,
+    "problemTags": ["dfs and similar", "dp", "dsu", "implementation"],
+    "userSolved": 6
   },
   {
     "problemURL": "https://codeforces.com/problemset/problem/1037/D",
     "problemName": "Valid BFS?",
     "problemRating": 1700,
     "problemTags": ["dfs and similar", "graphs", "shortest paths", "trees"],
-    "userSolved": 77
+    "userSolved": 6
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1325/D",
-    "problemName": "Ehab the Xorcist",
+    "problemURL": "https://codeforces.com/problemset/problem/1579/F",
+    "problemName": "Array Stabilization (AND version)",
     "problemRating": 1700,
-    "problemTags": [
-      "bitmasks",
-      "constructive algorithms",
-      "greedy",
-      "number theory"
-    ],
-    "userSolved": 76
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1528/B",
-    "problemName": "Kavi on Pairing Duty",
-    "problemRating": 1700,
-    "problemTags": ["combinatorics", "dp", "math"],
-    "userSolved": 76
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1327/E",
-    "problemName": "Count The Blocks",
-    "problemRating": 1800,
-    "problemTags": ["combinatorics", "dp", "math"],
-    "userSolved": 76
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1381/B",
-    "problemName": "Unmerge",
-    "problemRating": 1800,
-    "problemTags": ["dp"],
-    "userSolved": 76
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1324/E",
-    "problemName": "Sleeping Schedule",
-    "problemRating": 1700,
-    "problemTags": ["dp", "implementation"],
-    "userSolved": 75
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1628/B",
-    "problemName": "Peculiar Movie Preferences",
-    "problemRating": 1700,
-    "problemTags": ["greedy", "strings"],
-    "userSolved": 74
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1221/D",
-    "problemName": "Make The Fence Great Again",
-    "problemRating": 1800,
-    "problemTags": ["dp"],
-    "userSolved": 74
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1560/E",
-    "problemName": "Polycarp and String Transformation",
-    "problemRating": 1800,
-    "problemTags": ["binary search", "implementation", "sortings", "strings"],
-    "userSolved": 73
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1678/B2",
-    "problemName": "Tokitsukaze and Good 01-String (hard version)",
-    "problemRating": 1800,
-    "problemTags": ["dp", "greedy", "implementation"],
-    "userSolved": 72
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1394/A",
-    "problemName": "Boboniu Chats with Du",
-    "problemRating": 1800,
-    "problemTags": ["dp", "greedy", "sortings", "two pointers"],
-    "userSolved": 72
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1649/D",
-    "problemName": "Integral Array",
-    "problemRating": 1800,
     "problemTags": [
       "brute force",
-      "constructive algorithms",
+      "graphs",
       "math",
-      "sortings"
+      "number theory",
+      "shortest paths"
     ],
-    "userSolved": 72
+    "userSolved": 6
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1237/C1",
-    "problemName": "Balanced Removals (Easier)",
+    "problemURL": "https://codeforces.com/problemset/problem/1583/C",
+    "problemName": "Omkar and Determination",
     "problemRating": 1700,
-    "problemTags": ["constructive algorithms", "geometry", "greedy"],
-    "userSolved": 72
+    "problemTags": ["data structures", "dp"],
+    "userSolved": 6
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1335/E2",
-    "problemName": "Three Blocks Palindrome (hard version)",
-    "problemRating": 1800,
-    "problemTags": ["brute force", "data structures", "dp", "two pointers"],
-    "userSolved": 72
+    "problemURL": "https://codeforces.com/problemset/problem/1228/C",
+    "problemName": "Primes and Multiplication",
+    "problemRating": 1700,
+    "problemTags": ["math", "number theory"],
+    "userSolved": 6
   },
   {
-    "problemURL": "https://codeforces.com/problemset/problem/1572/A",
-    "problemName": "Book",
-    "problemRating": 1800,
+    "problemURL": "https://codeforces.com/problemset/problem/1051/D",
+    "problemName": "Bicolorings",
+    "problemRating": 1700,
+    "problemTags": ["bitmasks", "dp"],
+    "userSolved": 6
+  },
+  {
+    "problemURL": "https://codeforces.com/problemset/problem/1735/D",
+    "problemName": "Meta-set",
+    "problemRating": 1700,
     "problemTags": [
-      "binary search",
       "brute force",
+      "combinatorics",
       "data structures",
-      "dp",
-      "graphs",
-      "implementation",
-      "sortings"
-    ],
-    "userSolved": 71
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1462/F",
-    "problemName": "The Treasure of The Segments",
-    "problemRating": 1800,
-    "problemTags": ["binary search", "data structures", "greedy"],
-    "userSolved": 71
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1336/B",
-    "problemName": "Xenia and Colorful Gems",
-    "problemRating": 1700,
-    "problemTags": [
-      "binary search",
-      "greedy",
-      "math",
-      "sortings",
-      "two pointers"
-    ],
-    "userSolved": 71
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1693/B",
-    "problemName": "Fake Plastic Trees",
-    "problemRating": 1700,
-    "problemTags": ["dfs and similar", "dp", "greedy", "trees"],
-    "userSolved": 70
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1409/E",
-    "problemName": "Two Platforms",
-    "problemRating": 1800,
-    "problemTags": ["binary search", "dp", "sortings", "two pointers"],
-    "userSolved": 70
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1343/D",
-    "problemName": "Constant Palindrome Sum",
-    "problemRating": 1700,
-    "problemTags": ["brute force", "data structures", "greedy", "two pointers"],
-    "userSolved": 70
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/977/F",
-    "problemName": "Consecutive Subsequence",
-    "problemRating": 1700,
-    "problemTags": ["dp"],
-    "userSolved": 69
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1328/D",
-    "problemName": "Carousel",
-    "problemRating": 1800,
-    "problemTags": [
-      "constructive algorithms",
-      "dp",
-      "graphs",
-      "greedy",
+      "hashing",
       "math"
     ],
-    "userSolved": 69
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1453/C",
-    "problemName": "Triangles",
-    "problemRating": 1700,
-    "problemTags": ["greedy", "implementation"],
-    "userSolved": 69
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1333/C",
-    "problemName": "Eugene and an array",
-    "problemRating": 1700,
-    "problemTags": [
-      "binary search",
-      "data structures",
-      "implementation",
-      "two pointers"
-    ],
-    "userSolved": 69
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1278/C",
-    "problemName": "Berry Jam",
-    "problemRating": 1700,
-    "problemTags": ["data structures", "dp", "greedy", "implementation"],
-    "userSolved": 69
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/1316/C",
-    "problemName": "Primitive Primes",
-    "problemRating": 1800,
-    "problemTags": ["constructive algorithms", "math", "ternary search"],
-    "userSolved": 69
-  },
-  {
-    "problemURL": "https://codeforces.com/problemset/problem/459/D",
-    "problemName": "Pashmak and Parmida's problem",
-    "problemRating": 1800,
-    "problemTags": ["data structures", "divide and conquer", "sortings"],
-    "userSolved": 69
+    "userSolved": 6
   }
 ]
