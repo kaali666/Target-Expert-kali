@@ -24,12 +24,6 @@ function App() {
           return <Problem data={value} userSolved={userSolved} />;
         })}
       </div>
-      <div>
-        <p className="flex justify-center text-lg m-6">
-          Made with ❤ by &nbsp;
-          <a href="https://codeforces.com/profile/coder_ravan" target="_blank">Coder_Ravan</a>{" "}
-        </p>
-      </div>
     </>
   );
 }
